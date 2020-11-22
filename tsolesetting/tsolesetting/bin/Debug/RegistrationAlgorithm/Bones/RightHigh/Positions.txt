@@ -1,0 +1,7 @@
+bones1	Calcaneus	1437
+bones6	Cuboid	1120
+bones9	MedialCuneiform	617
+bones10	Met5	2770
+bones14	Met1	530
+bones19	Phalange5	355
+bones15	Phalange1	629
