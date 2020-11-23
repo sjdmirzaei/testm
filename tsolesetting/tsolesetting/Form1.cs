@@ -20,6 +20,7 @@ namespace tsolesetting
             formsetting.ShowDialog();
             //panelControl1.Controls.Add(formsetting);
 
+            //Hey There!
             //it's a test!!!
         }
     }
